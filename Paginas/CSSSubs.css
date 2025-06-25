@@ -67,7 +67,7 @@ html {
   padding: 3vh 2vw;
   padding-bottom: 20vh;
   background-color: #333;
-  background-image: url("../imgs/wallpaperflare.com_wallpaper.jpg");
+  background-image: url("imgs/wallpaperflare.com_wallpaper.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -82,7 +82,7 @@ html {
   padding: 3vh 2vw;
   padding-bottom: 20vh;
   background-color: #333;
-  background-image: url("../imgs/Abismo_Anhumas,_Bonito,_MS.jpg");
+  background-image: url("imgs/Abismo_Anhumas,_Bonito,_MS.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -111,7 +111,7 @@ html {
   padding: 3vh 2vw;
   padding-bottom: 20vh;
   background-color: #333;
-  background-image: url("../imgs/shapada-diamantina-natsionalnyi-park-baiia-braziliia-gory-sk.jpg");
+  background-image: url("imgs/shapada-diamantina-natsionalnyi-park-baiia-braziliia-gory-sk.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -126,7 +126,7 @@ html {
   padding: 3vh 2vw;
   padding-bottom: 20vh;
   background-color: #333;
-  background-image: url("../imgs/veadeirosmain.jpg");
+  background-image: url("imgs/veadeirosmain.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -156,7 +156,7 @@ html {
   padding: 3vh 2vw;
   padding-bottom: 20vh;
   background-color: #333;
-  background-image: url("../imgs/holambramain.jpg");
+  background-image: url("imgs/holambramain.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -172,7 +172,7 @@ html {
   padding: 3vh 2vw;
   padding-bottom: 20vh;
   background-color: #333;
-  background-image: url("../imgs/jalapao.jpg");
+  background-image: url("imgs/jalapao.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -347,4 +347,8 @@ html {
   .menu {
     max-width: 1200px;
   }
+}
+
+a:visited {
+  color: inherit;
 }
